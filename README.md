@@ -1,4 +1,4 @@
-# POO I
+# Programação Orientada a Objetos I
 
 ## Objetivos
 
